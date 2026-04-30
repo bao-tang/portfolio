@@ -1,8 +1,8 @@
 # Portfolio
 
-Hello, World!
-My name is Bao.
-Welcome to my personal portfolio.
+Hello, World!  
+My name is Bao.  
+Welcome to my personal portfolio.  
 Powered by React + Tailwind and ASP.NET Core C#.
 
 ## Repo structure
