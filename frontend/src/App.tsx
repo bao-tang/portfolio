@@ -12,9 +12,9 @@ import Blog from './pages/Blog';
 
 export default function App() {
   return (
-    <div className="min-h-screen flex flex-col bg-white dark:bg-black text-black dark:text-white transition-colors duration-300">
+    <div className="h-screen flex flex-col bg-white dark:bg-black text-black dark:text-white transition-colors duration-300 overflow-hidden">
       <Header />
-      <main className="flex-1">
+      <main className="flex-1 flex flex-col overflow-hidden">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/projects" element={<Projects />} />

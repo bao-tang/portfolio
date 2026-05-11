@@ -10,7 +10,7 @@ export default function Header() {
       <div className="max-w-screen-xl mx-auto px-6 flex items-center h-20">
         <Link
           to="/"
-          className="shrink-0 font-serif italic font-semibold text-lg tracking-tight"
+          className="shrink-0 font-serif italic font-semibold text-2xl tracking-tight"
         >
           Bao Tang
           <span className="hidden md:inline text-sm font-normal ml-2 opacity-60">
